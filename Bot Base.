@@ -15,4 +15,4 @@ client.on("message", (message) => {
   }
 });
 
-client.login("OjrDQmaHHTe9-JN6Zaiwi6XnzARUoiOO");
+client.login("MzgzNTA4MTY5MzcwMTA3OTA1.DPlTvw.VWdn8pWazo1kFtba5FxGDCkeiIE");
