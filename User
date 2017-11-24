@@ -1,13 +1,31 @@
 {
-	"last_message_id": "383484269764542464",
-	"type": 1,
-	"id": "383472332234031106",
-	"recipients": [
-		{
-			"username": "Test",
-			"discriminator": "9999",
-			"id": "82198898841029460",
-			"avatar": "33ecab261d4681afa4d85a04691c4a01"
-		}
-	]
+    "reactions": [
+        {
+            "count": 1,
+            "me": false,
+            "emoji": {
+                "id": null,
+                "name": "🔥"
+            }
+        }
+    ],
+    "attachments": [],
+    "tts": false,
+    "embeds": [],
+    "timestamp": "2017-07-11T17:27:07.299000+00:00",
+    "mention_everyone": false,
+    "id": "334385199974967042",
+    "pinned": false,
+    "edited_timestamp": null,
+    "author": {
+        "username": "Elizabeth",
+        "discriminator": "2305",
+        "id": "322183563740971050",
+        "avatar": "2f966a392a51af5d68699bb5d3e1778e"
+    },
+    "mention_roles": [],
+    "content": "Supa Hot",
+    "channel_id": "383472332234031106",
+    "mentions": [],
+    "type": 0
 }
